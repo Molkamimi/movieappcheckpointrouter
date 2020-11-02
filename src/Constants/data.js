@@ -19,7 +19,7 @@ export const moviesData = [
     date: "2007",
     type: "Horror",
     rating: "4",
-    src: "https://www.youtube.com/embed/Dz5o2gN5Ubw",
+    src: "https://www.youtube.com/embed/INZJP8vUL_c",
   },
 
   {
@@ -31,7 +31,7 @@ export const moviesData = [
     date: "1954",
     type: "Drame,Romance",
     rating: "3",
-    src: "https://www.youtube.com/embed/Dz5o2gN5Ubw",
+    src: "https://www.youtube.com/embed/_UoJYee0sQ8",
   },
 
   {
@@ -43,7 +43,7 @@ export const moviesData = [
     date: "2004",
     type: "horror",
     rating: "4",
-    src: "https://www.youtube.com/embed/Dz5o2gN5Ubw",
+    src: "https://www.youtube.com/embed/MWBkYHkvn3M",
   },
   {
     name: "OFFICE UPRISING",
@@ -53,6 +53,6 @@ export const moviesData = [
     date: "2018",
     type: "Action,Comedy,Horror",
     rating: "5",
-    src: "https://www.youtube.com/embed/Dz5o2gN5Ubw",
+    src: "https://www.youtube.com/embed/0-gJyMpMxxo",
   },
 ];

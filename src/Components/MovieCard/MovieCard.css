@@ -63,7 +63,7 @@ h1 {
 
 .card_right__details li {
   display: inline;
-  color: #e3e3e3;
+  color: #ece6e6;
   font-family: "Montserrat", sans-serif;
   font-weight: 400;
   font-size: 14px;
@@ -75,9 +75,7 @@ h1 {
   color: #cf3eb0;
   font-size: 2rem;
 }
-.card_right__review {
-  font-style: italic;
-}
+
 .card_right__review p {
   color: white;
   font-family: "Montserrat", sans-serif;

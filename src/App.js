@@ -5,10 +5,6 @@ import MovieList from "./Components/MovieList";
 import AddMovie from "./Components/Add/Add";
 import Filter from "./Components/Filter/Filter";
 
-// import MovieCard from "./Components/MovieCard/MovieCard";
-// import Description from "./Components/Description";
-// import AppRouter from "./router/router";
-
 function App() {
   const [movies, setMovies] = useState(moviesData);
   const [textSerach, setTextSerach] = useState("");
